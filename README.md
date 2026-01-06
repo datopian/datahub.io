@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://datahub.io/">
-    <img alt="datahub" src="http://datahub.io/datahub-cube.svg" width="146">
+    <img alt="datahub" src="https://r2-assets.datahub.io/logo.svg" width="146">
   </a>
 </p>
 
 <p align="center">
   Bugs, issues and suggestions re datahub.io.
   <br />
-  <br /><a href="https://discord.gg/xfFDMPU9dC"><img src="https://dcbadge.vercel.app/api/server/xfFDMPU9dC" /></a>
+  <br /><a href="https://discord.gg/xfFDMPU9dC"><img src="https://img.shields.io/discord/724381522966085712" /></a>
 </p>
 
 ## Issues
